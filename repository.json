@@ -1,0 +1,14 @@
+{
+  "name": "Arakawa",
+  "summary": "Thank you for your support--Arakawa",
+  "list": [
+    {
+      "name": "飘天中文网[搜索间隔30s]",
+      "url": "https://www.piaotianzw.com",
+      "category": 1,
+      "rank": 4,
+      "auth": false,
+      "version": 100
+    }
+  ]
+}
